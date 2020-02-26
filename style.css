@@ -1,0 +1,25 @@
+body {
+    background-color: gray
+}
+
+.center {
+    text-align: center
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.textarea {
+    text-align: center;
+    background-color: rgba(245, 245, 245, 0.89);
+    margin: 20px 100px;
+}
+
+.container1 {
+    padding: 50px;
+}
+
+.container {
+    align-content: center;
+}
